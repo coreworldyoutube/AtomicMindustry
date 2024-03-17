@@ -1,0 +1,10 @@
+type: item
+name: cesium
+description: Robot can eat it.
+  "cost": 3,
+  "color": "#0000cd",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

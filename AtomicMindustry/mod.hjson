@@ -1,0 +1,10 @@
+{
+name: "atomicmindustry"
+displayName: "AtomicMindustry"
+author: coreworld
+description: "This is the premise of the MOD."
+version: "1.0"
+minGameVersion: "140.4"
+dependencies: [ ]
+hidden: true
+}

@@ -1,0 +1,10 @@
+type: item
+name: sodium
+description: natron?
+  "cost": 3,
+  "color": "#ffedab",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

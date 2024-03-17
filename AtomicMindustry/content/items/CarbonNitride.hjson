@@ -1,0 +1,10 @@
+type: item
+name: CarbonNitride
+description: It can use to semiconductor.
+  "cost": 2,
+  "color": "#ff4500 ",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

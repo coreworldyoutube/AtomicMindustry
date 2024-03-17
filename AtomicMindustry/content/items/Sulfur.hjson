@@ -1,0 +1,10 @@
+type: item
+name: sulfur
+description: sulphur!
+  "cost": 3,
+  "color": "#F1E266",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

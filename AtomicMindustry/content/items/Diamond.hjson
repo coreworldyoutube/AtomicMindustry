@@ -1,0 +1,10 @@
+type: item
+name: Diamond
+description: Ohh, It look like so Minecraft lol.
+  "cost": 2,
+  "color": "#e0e0f0",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

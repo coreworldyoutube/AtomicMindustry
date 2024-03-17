@@ -1,0 +1,10 @@
+type: item
+name: radium
+description: radium chocorate!
+  "cost": 3,
+  "color": "#00ff7f",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

@@ -1,0 +1,10 @@
+type: item
+name: lithium
+description: Batt man.
+  "cost": 3,
+  "color": "#eeeeee",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

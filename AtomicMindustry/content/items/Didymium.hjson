@@ -1,0 +1,10 @@
+type: item
+name: didymium
+description: maybe, It is an element.
+  "cost": 3,
+  "color": "#dda0dd",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite

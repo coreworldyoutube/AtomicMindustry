@@ -1,0 +1,10 @@
+type: item
+name: Uranium
+description: Look at this.It is green!
+  "cost": 3,
+  "color": "#005243",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite
