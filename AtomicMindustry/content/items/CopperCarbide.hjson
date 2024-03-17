@@ -1,1 +1,10 @@
-
+type: item
+name: coppercarbide
+description: Copper is explosive.
+  "cost": 2,
+  "color": "#e3d7a3",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: copper
