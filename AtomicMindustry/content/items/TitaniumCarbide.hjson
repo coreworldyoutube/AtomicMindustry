@@ -1,1 +1,10 @@
-
+type: item
+name: titanium carbide
+description: It is twice as hard as steel.
+  "cost": 2,
+  "color": "#171717 ",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite
