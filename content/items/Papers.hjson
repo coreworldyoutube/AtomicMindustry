@@ -1,0 +1,10 @@
+type: item
+name: papers
+description: I have a idea.
+  "cost": 3,
+  "color": "#dcdcdc",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: graphite
