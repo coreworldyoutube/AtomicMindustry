@@ -24,4 +24,6 @@ lead(鉛)
 thorium(トリウム)
 (このMODで追加される元素)Addtion Element by This mod:
 
+(このMODで追加される化合物等の物質)Addtion Compounds and other Substances by This mod:
+BerylliumCopper(ベリリウム銅)
 
