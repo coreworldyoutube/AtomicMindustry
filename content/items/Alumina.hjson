@@ -7,4 +7,9 @@ description: oxide aluminum.
   "explosiveness": 0,
   "radioactivity": 0,
   "charge": 0
-  research: copper
+research: {
+  parent: Papers
+  requirements: [
+    Papers/100
+  ]
+}
