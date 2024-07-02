@@ -1,0 +1,10 @@
+type: item
+name: alumina
+description: oxide aluminum.
+  "cost": 1,
+  "color": "#00a497",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: copper
