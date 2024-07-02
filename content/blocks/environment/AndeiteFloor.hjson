@@ -1,6 +1,6 @@
 type: Floor
 name: andeite floor
-variants: 6
+variants: 3
 attributes: {
   andeitefloor: 1
 }
