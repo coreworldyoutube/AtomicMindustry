@@ -2,6 +2,5 @@
 	"name":"andeite floor",
 	"type":"floor",
 	"variants": 3,
-  attributes: {
-  AndeiteFloor: 1
+	"attributes": { "andeite": [ 0, 0.2, 0, 0.05 ] }
 }
