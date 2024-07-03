@@ -1,1 +1,10 @@
-a
+type: item
+name: boron
+description: light(weight) and light(cost)
+  "cost": 2,
+  "color": "#00a497",
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0
+  research: copper
