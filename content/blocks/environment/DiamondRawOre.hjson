@@ -1,8 +1,8 @@
 {
-	"name":"andeite floor",
+	"name":"diamond raw ore",
 	"type":"floor",
-	"itemDrop": "Andesite",
-	"variants": 3,
+	"itemDrop": "Diamond",
+	"variants": 1,
 	"oreDefault": true,
 	"oreScale": 23.87,
 	"oreThreshold": 0.823
