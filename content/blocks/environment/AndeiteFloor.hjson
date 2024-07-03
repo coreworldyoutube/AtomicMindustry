@@ -1,7 +1,7 @@
 {
 	"name":"andeite floor",
 	"type":"floor",
-	"itemDrop": "andesite",
+	"itemDrop": "Andesite",
 	"variants": 3,
 	"oreDefault": true,
 	"oreScale": 23.87,
