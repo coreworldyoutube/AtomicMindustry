@@ -2,7 +2,7 @@ type: item
 name: AntiMatterX
 description: What This is any AntiMatter.
   "cost": 3,
-  "color": "#00a497",
+  "color": "#460e44",
   "flammability": 0,
   "explosiveness": 0,
   "radioactivity": 0,
