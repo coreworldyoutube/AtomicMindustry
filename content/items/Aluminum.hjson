@@ -1,6 +1,6 @@
 type: item
 name: aluminum
-description: light(weight) and light(cost)
+description: how to decrease this cost.
   "cost": 2,
   "color": "#00a497",
   "flammability": 0,
