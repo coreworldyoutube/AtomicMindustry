@@ -2,7 +2,7 @@ type: item
 name: andesite
 description: kind of one's rock.
   "cost": 1,
-  "color": "#00a497",
+  "color": "#484848",
   "flammability": 0,
   "explosiveness": 0,
   "radioactivity": 0,
