@@ -2,7 +2,7 @@ type: item
 name: berylliumcopper
 description: It is heat resistant, so you can try it however you like.
   "cost": 2,
-  "color": "#ffcc66",
+  "color": "#fbe8cd",
   "flammability": 0,
   "explosiveness": 0,
   "radioactivity": 0,
