@@ -2,7 +2,7 @@ type: item
 name: aluminum
 description: how to decrease this cost.
   "cost": 2,
-  "color": "#00a497",
+  "color": "#e9e4d4",
   "flammability": 0,
   "explosiveness": 0,
   "radioactivity": 0,
