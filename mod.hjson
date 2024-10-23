@@ -4,7 +4,7 @@ displayName: "AtomicMindustry"
 author: coreworld
 description: "This is the premise of the MOD."
 version: "1.0"
-minGameVersion: "140.4"
+minGameVersion: "146"
 dependencies: [ ]
 hidden: true
 }
