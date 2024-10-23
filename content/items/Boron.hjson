@@ -1,16 +1,12 @@
-{
-  name: boron
-  description: test
-  heatCapacity: 0.2
-  explosiveness: 1
-  temperature: 0.4
-  coolant: false
-  gas: false
-  color: 00ff00
-  flammability: 0.1
-  gasColor: 00ff00
-  barColor: 00ff00
-  incinerable: true
-  lightColor: 00ff00
-  research: copper
-}
+type: item
+name: boron
+description: "A versatile element used in glassmaking and as a neutron absorber in nuclear reactors."
+cost: 1.5
+color: 00ff00
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Boron
+research: copper
+alwaysUnlocked: true
