@@ -1,10 +1,12 @@
 type: item
 name: aluminum
-description: how to decrease this cost.
-  "cost": 2,
-  "color": "#e9e4d4",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: copper
+hardness: 2
+cost: 1.0
+color: c0c0c0
+flammability: 0.2
+charge: 0
+radioactivity: 0
+explosiveness: 0
+localizedName: Aluminum
+description: "A lightweight and durable metal used in various industries."
+alwaysUnlocked: true
