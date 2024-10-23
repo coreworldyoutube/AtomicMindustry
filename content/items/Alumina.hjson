@@ -1,15 +1,12 @@
 type: item
 name: alumina
-description: oxide aluminum.
-  "cost": 1,
-  "color": "#F8F5E3",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-research: {
-  parent: Papers
-  requirements: [
-    Papers/100
-  ]
-}
+hardness: 1
+cost: 0.5
+color: f0e68c
+flammability: 0
+charge: 0
+radioactivity: 0
+explosiveness: 0
+localizedName: Alumina
+description: "A compound used in aluminum production, typically extracted from bauxite."
+alwaysUnlocked: true
