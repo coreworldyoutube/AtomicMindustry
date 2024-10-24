@@ -1,10 +1,12 @@
 type: item
 name: sodium
-description: natron?
-  "cost": 3,
-  "color": "#ffedab",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+description: "A highly reactive metal that explodes in water, used in various chemical applications."
+cost: 2.5
+color: ffff00
+flammability: 1.0
+explosiveness: 0.8
+radioactivity: 0
+charge: 0
+localizedName: Sodium
+research: copper
+alwaysUnlocked: true
