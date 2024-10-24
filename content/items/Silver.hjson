@@ -1,1 +1,12 @@
-a
+type: item
+name: silver
+description: "A precious metal known for its high conductivity and luster, widely used in jewelry and electronics."
+cost: 4.0
+color: c0c0c0
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Silver
+research: copper
+alwaysUnlocked: true
