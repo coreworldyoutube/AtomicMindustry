@@ -1,10 +1,12 @@
 type: item
-name: Uranium
-description: Look at this.It is green!
-  "cost": 3,
-  "color": "#005243",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+name: uranium
+description: "A radioactive metal used as fuel in nuclear reactors and in the production of nuclear weapons."
+cost: 5.0
+color: 32cd32
+flammability: 0
+explosiveness: 0.1
+radioactivity: 1.0
+charge: 0
+localizedName: Uranium
+research: copper
+alwaysUnlocked: true
