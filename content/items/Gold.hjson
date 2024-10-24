@@ -1,10 +1,12 @@
 type: item
 name: gold
-description: WOW It is Shine So Beautiful!
-  "cost": 3,
-  "color": "#00a497",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: copper
+description: "A highly valuable and conductive metal, prized for its rarity and luster."
+cost: 4.5
+color: ffd700
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Gold
+research: copper
+alwaysUnlocked: true
