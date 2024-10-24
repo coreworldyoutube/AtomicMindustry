@@ -1,0 +1,12 @@
+type: item
+name: selenium
+description: "A nonmetal with photovoltaic properties, used in electronics, glass production, and pigments."
+cost: 3.5
+color: b22222
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Selenium
+research: copper
+alwaysUnlocked: true
