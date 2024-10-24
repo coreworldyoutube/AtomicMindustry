@@ -7,4 +7,6 @@ flammability: 0
 explosiveness: 0.2
 radioactivity: 0
 charge: 0
-localized
+localizedName: Molten Lithium
+research: copper
+alwaysUnlocked: true
