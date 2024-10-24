@@ -1,10 +1,12 @@
 type: item
 name: sulfur
-description: sulphur!
-  "cost": 3,
-  "color": "#F1E266",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+description: "A yellow, non-metallic element commonly used in fertilizers and chemical processes."
+cost: 1.5
+color: ffff00
+flammability: 0.4
+explosiveness: 0.3
+radioactivity: 0
+charge: 0
+localizedName: Sulfur
+research: copper
+alwaysUnlocked: true
