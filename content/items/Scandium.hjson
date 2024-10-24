@@ -1,1 +1,12 @@
-a
+type: item
+name: scandium
+description: "A rare, lightweight metal used in aerospace applications and aluminum alloys."
+cost: 3.0
+color: b0e0e6
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Scandium
+research: copper
+alwaysUnlocked: true
