@@ -1,0 +1,12 @@
+type: item
+name: technetium
+description: "A silvery metal that is radioactive and used in medical imaging and as a tracer in nuclear medicine."
+cost: 6.0
+color: 4b4b4b
+flammability: 0
+explosiveness: 0
+radioactivity: 0.5
+charge: 0
+localizedName: Technetium
+research: copper
+alwaysUnlocked: true
