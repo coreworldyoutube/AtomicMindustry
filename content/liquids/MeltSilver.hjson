@@ -1,1 +1,12 @@
-f
+type: liquid
+name: moltensilver
+description: "Liquid silver produced by melting solid silver, known for its conductivity and use in jewelry."
+cost: 5.5
+color: c0c0c0
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Molten Silver
+research: copper
+alwaysUnlocked: true
