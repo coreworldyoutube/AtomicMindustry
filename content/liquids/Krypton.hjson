@@ -1,0 +1,12 @@
+type: gas
+name: krypton
+description: "A colorless, odorless noble gas used in lighting and photography."
+cost: 2.5
+color: ffffff
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Krypton
+research: copper
+alwaysUnlocked: true
