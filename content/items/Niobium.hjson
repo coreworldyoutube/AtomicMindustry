@@ -1,0 +1,12 @@
+type: item
+name: niobium
+description: "A shiny, grey metal used in superconductors and steel alloys."
+cost: 5.0
+color: 696969
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Niobium
+research: copper
+alwaysUnlocked: true
