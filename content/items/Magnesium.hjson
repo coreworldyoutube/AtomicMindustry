@@ -1,10 +1,12 @@
 type: item
 name: magnesium
-description: maybe, It is an element.
-  "cost": 3,
-  "color": "#dda0dd",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+description: "A lightweight, silver-white metal used in alloys and fireworks."
+cost: 2.2
+color: e0e0e0
+flammability: 0.7
+explosiveness: 0.5
+radioactivity: 0
+charge: 0
+localizedName: Magnesium
+research: copper
+alwaysUnlocked: true
