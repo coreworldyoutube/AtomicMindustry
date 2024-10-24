@@ -1,0 +1,12 @@
+type: liquid
+name: bromine
+description: "A reddish-brown liquid at room temperature, used in flame retardants and water treatment."
+cost: 4.0
+color: 8b0000
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Bromine
+research: copper
+alwaysUnlocked: true
