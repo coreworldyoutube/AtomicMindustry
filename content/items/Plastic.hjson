@@ -1,10 +1,12 @@
 type: item
 name: plastic
-description: usefull
-  "cost": 3,
-  "color": "#dcdcdc",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+description: "A versatile, synthetic material used in a wide range of applications, from packaging to electronics."
+cost: 1.2
+color: ffffff
+flammability: 0.8
+explosiveness: 0.1
+radioactivity: 0
+charge: 0
+localizedName: Plastic
+research: copper
+alwaysUnlocked: true
