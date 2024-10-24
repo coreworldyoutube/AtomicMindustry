@@ -1,0 +1,12 @@
+type: item
+name: thallium
+description: "A soft, malleable metal that is toxic and used in electronics and pharmaceuticals."
+cost: 5.0
+color: 8b4513
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Thallium
+research: copper
+alwaysUnlocked: true
