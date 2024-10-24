@@ -1,10 +1,13 @@
 type: item
 name: iron
-description: kore ha tekkou da.
-  "cost": 3,
-  "color": "#dcdcdc",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+description: "A strong and versatile metal widely used in construction and manufacturing."
+cost: 2.0
+color: b87333
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Iron
+research: copper
+alwaysUnlocked: true
+
