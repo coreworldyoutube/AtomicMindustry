@@ -1,1 +1,12 @@
-h
+type: item
+name: debris
+description: "Various types of debris, including radioactive waste from reactors and space debris."
+cost: 0.5
+color: 8b8b8b
+flammability: 0.1
+explosiveness: 0
+radioactivity: 0.5
+charge: 0
+localizedName: Debris
+research: copper
+alwaysUnlocked: true
