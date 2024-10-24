@@ -1,10 +1,12 @@
 type: item
-name: monazites
-description: yeah.I look for it!
-  "cost": 3,
-  "color": "#ff4500",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+name: monazite
+description: "A phosphate mineral containing rare earth elements, often radioactive."
+cost: 3.5
+color: d2b48c
+flammability: 0
+explosiveness: 0
+radioactivity: 0.3
+charge: 0
+localizedName: Monazite
+research: copper
+alwaysUnlocked: true
