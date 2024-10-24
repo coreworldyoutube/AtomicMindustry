@@ -1,10 +1,12 @@
 type: item
 name: steel
-description: stronger than iron.
-  "cost": 1,
-  "color": "#00a497",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: copper
+description: "An alloy of iron and carbon, known for its strength and versatility in construction and manufacturing."
+cost: 3.5
+color: 808080
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Steel
+research: copper
+alwaysUnlocked: true
