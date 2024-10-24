@@ -1,10 +1,12 @@
 type: item
-name: papers
-description: I have a idea.
-  "cost": 3,
-  "color": "#dcdcdc",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+name: paper
+description: "High-quality paper used for scientific research papers and documentation."
+cost: 0.5
+color: ffffff
+flammability: 0.2
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Research Paper
+research: copper
+alwaysUnlocked: true
