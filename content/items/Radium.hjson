@@ -1,10 +1,12 @@
 type: item
 name: radium
-description: radium chocorate!
-  "cost": 3,
-  "color": "#00ff7f",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+description: "A highly radioactive metal that glows faintly in the dark, historically used in luminous paints."
+cost: 3.5
+color: 98ff98
+flammability: 0
+explosiveness: 0.2
+radioactivity: 1.0
+charge: 0
+localizedName: Radium
+research: copper
+alwaysUnlocked: true
