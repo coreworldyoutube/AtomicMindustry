@@ -1,10 +1,12 @@
 type: item
-name: pig iron
-description: I make iron by way of double.
-  "cost": 1,
-  "color": "#00a497",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: copper
+name: pigiron
+description: "A crude form of iron with a high carbon content, used as an intermediate product in steel production."
+cost: 1.8
+color: 696969
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Pig Iron
+research: copper
+alwaysUnlocked: true
