@@ -1,10 +1,12 @@
 type: item
-name: CarbonNitride
-description: It can use to semiconductor.
-  "cost": 2,
-  "color": "#ff4500 ",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+name: carbonnitride
+description: "A semiconductor material with a diamond-like structure, containing nitrogen."
+cost: 2.5
+color: a0a0a0
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Carbon Nitride
+research: copper
+alwaysUnlocked: true
