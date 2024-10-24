@@ -1,10 +1,12 @@
 type: item
 name: diorite
-description: kind of one's rock.
-  "cost": 1,
-  "color": "#00a497",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: copper
+description: "A speckled, coarse-grained rock used in construction and decoration."
+cost: 1.0
+color: cccccc
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Diorite
+research: copper
+alwaysUnlocked: true
