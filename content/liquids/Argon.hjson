@@ -1,1 +1,12 @@
-a
+type: gas
+name: argon
+description: "A colorless, odorless inert gas used in various industrial applications."
+cost: 0.1
+color: b0c4de
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Argon
+research: copper
+alwaysUnlocked: true
