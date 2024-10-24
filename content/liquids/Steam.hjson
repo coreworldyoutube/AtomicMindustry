@@ -1,1 +1,12 @@
-a
+type: gas
+name: steam
+description: "Water vapor produced by boiling water, commonly used in power generation and heating."
+cost: 0.3
+color: f0f8ff
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Steam
+research: copper
+alwaysUnlocked: true
