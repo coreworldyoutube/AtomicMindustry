@@ -1,1 +1,12 @@
-zinc
+type: item
+name: zinc
+description: "A bluish-white metal used for galvanizing other metals to prevent rusting and in various alloys."
+cost: 1.8
+color: 7f7f7f
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Zinc
+research: copper
+alwaysUnlocked: true
