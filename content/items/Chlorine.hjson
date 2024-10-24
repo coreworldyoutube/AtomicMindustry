@@ -1,10 +1,12 @@
 type: item
-name: chlorine
-description: khloauges?.
-  "cost": 3,
-  "color": "#ddffbc",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+name: chromium
+description: "A hard, steel-gray metal used in alloys and as a plating material."
+cost: 2.0
+color: 4b4b4b
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Chromium
+research: copper
+alwaysUnlocked: true
