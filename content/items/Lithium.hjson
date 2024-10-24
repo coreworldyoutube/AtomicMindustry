@@ -1,16 +1,12 @@
-{
-  name: lithium
-  description: test
-  heatCapacity: 0.1
-  explosiveness: 1
-  temperature: 0.3
-  coolant: false
-  gas: false
-  color: ffffff
-  flammability: 0.5
-  gasColor: ffffff
-  barColor: ffffff
-  incinerable: true
-  lightColor: ffffff
-  research: copper
-}
+type: item
+name: lithium
+description: "A lightweight metal used in batteries and other high-tech applications."
+cost: 1.8
+color: d0e1f9
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Lithium
+research: copper
+alwaysUnlocked: true
