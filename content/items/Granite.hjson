@@ -1,10 +1,12 @@
 type: item
 name: granite
-description: kind of one's rock.
-  "cost": 1,
-  "color": "#00a497",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: copper
+description: "A durable and coarse-grained igneous rock used in construction and decoration."
+cost: 1.2
+color: b0a9a9
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Granite
+research: copper
+alwaysUnlocked: true
