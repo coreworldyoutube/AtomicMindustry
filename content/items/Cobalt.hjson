@@ -1,10 +1,12 @@
 type: item
 name: cobalt
-description: I feel the vibrations. Are you a fairy?
-  "cost": 3,
-  "color": "#0068b7",
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0
-  research: graphite
+description: "A magnetic element known for its mysterious properties and used in various alloys."
+cost: 2.5
+color: 0033cc
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Cobalt
+research: copper
+alwaysUnlocked: true
