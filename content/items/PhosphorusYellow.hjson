@@ -1,1 +1,12 @@
-a
+type: item
+name: yellowphosphorus
+description: "A highly reactive and toxic allotrope of phosphorus, often stored under water to prevent ignition."
+cost: 2.0
+color: ffff00
+flammability: 1.0
+explosiveness: 0.8
+radioactivity: 0
+charge: 0
+localizedName: Yellow Phosphorus
+research: copper
+alwaysUnlocked: true
