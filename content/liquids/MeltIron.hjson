@@ -1,1 +1,12 @@
-g
+type: liquid
+name: molteniron
+description: "Liquid iron produced by melting solid iron, essential in steelmaking and construction."
+cost: 5.0
+color: ff4500
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+localizedName: Molten Iron
+research: copper
+alwaysUnlocked: true
