@@ -1,0 +1,10 @@
+type: item
+name: barium
+description: A soft, silvery-white metal used in fireworks and as a contrast agent in medical imaging.
+cost: 4
+color: "#9fc6d3"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
