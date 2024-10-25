@@ -1,7 +1,7 @@
 {
 name: "atomicmindustry"
 displayName: "AtomicMindustry"
-author: coreworld
+author: coreworld(munetorisan)
 description: "This is the premise of the MOD."
 version: "1.0"
 minGameVersion: "146"
