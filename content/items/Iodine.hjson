@@ -1,0 +1,10 @@
+type: item
+name: iodine
+description: A dark purple solid used in medicine and photography, known for its antiseptic properties.
+cost: 2
+color: "#6f4c3e"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
