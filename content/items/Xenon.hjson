@@ -1,0 +1,10 @@
+type: item
+name: xenon
+description: A colorless, dense noble gas used in flash lamps and as a general anesthetic.
+cost: 5
+color: "#a3b3f7"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
