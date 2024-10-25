@@ -1,0 +1,10 @@
+type: item
+name: lanthanum
+description: A soft, silvery-white metal used in optical glass and catalysts.
+cost: 4
+color: "#d4d4d4"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
