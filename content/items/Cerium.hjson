@@ -1,0 +1,10 @@
+type: item
+name: cerium
+description: A silvery-white metal used in catalysts and glass polishing.
+cost: 5
+color: "#b7b7b7"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
