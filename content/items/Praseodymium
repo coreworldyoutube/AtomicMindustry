@@ -1,0 +1,10 @@
+type: item
+name: praseodymium
+description: A soft, silvery metal used in magnets and as a coloring agent in glasses.
+cost: 4
+color: "#c9d5d7"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
