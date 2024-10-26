@@ -1,0 +1,10 @@
+type: item
+name: gadolinium
+description: A silvery-white metal used in MRI contrast agents and neutron capture.
+cost: 5
+color: "#d3d3d3"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
