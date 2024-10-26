@@ -1,0 +1,10 @@
+type: item
+name: terbium
+description: A silvery metal used in phosphors and as a neutron capture material.
+cost: 4
+color: "#d7e4f2"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
