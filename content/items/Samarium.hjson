@@ -1,0 +1,10 @@
+type: item
+name: samarium
+description: A silvery metal used in magnets and as a neutron absorber in nuclear reactors.
+cost: 4
+color: "#b7c9d2"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
