@@ -1,0 +1,10 @@
+type: item
+name: dysprosium
+description: A silvery metal used in magnets and as a doping agent in certain materials.
+cost: 6
+color: "#c1d3f5"
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+research: copper
