@@ -1,9 +1,0 @@
-type: liquid
-name: moltenlead
-description: "Liquid lead produced by melting solid lead, used in batteries and radiation shielding."
-cost: 5.0
-color: 4b4b4b
-flammability: 0
-explosiveness: 0
-radioactivity: 0
-charge: 0
