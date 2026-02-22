@@ -1,5 +1,5 @@
 type: ConsumeGenerator
-name: Ignition Generator
+name: Steam Generator
 description: Burns flammable materials to create small amounts of power.
 size: 3
 category: power
