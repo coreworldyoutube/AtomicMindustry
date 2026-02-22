@@ -8,9 +8,6 @@ requirements: [
   { item: copper, amount: 30 }
 ]
 
-craftTime: 60
-warmupSpeed: 0.05
-maxEfficiency: 1.0  # Heatによる倍率上限
 
 hasLiquids: true
 liquidCapacity: 20.0
