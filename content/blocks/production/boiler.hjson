@@ -10,11 +10,16 @@ requirements: [
 
 craftTime: 60
 warmupSpeed: 0.05
-maxEfficiency: 1.0
+maxEfficiency: 1.0  # Heatによる倍率上限
 
 hasLiquids: true
 liquidCapacity: 20.0
 outputsLiquid: true
+
+# HeatCrafter 風パラメータ
+heatRequirement: 10.0      # この熱があれば効率100%
+overheatScale: 1.0         # 余剰熱の効率倍率
+maxEfficiency: 4.0         # 最大効率
 
 # 消費液体
 consumes: {
