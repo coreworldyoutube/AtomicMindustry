@@ -1,5 +1,5 @@
 localizedName: Higuruma
-description: A balanced world of life and desolation.
+description: test
 alwaysUnlocked: true
 accessible: true
 visible: true
@@ -20,7 +20,6 @@ allowWaveSimulation: true
 allowWaves: true
 clearSectorOnLose: true
 prebuildBase: false
-defaultCore: "core-01-basic"
 parent: sun
 solarSystem: sun
 launchCandidates: []
