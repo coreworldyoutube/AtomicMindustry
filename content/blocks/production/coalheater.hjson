@@ -10,16 +10,7 @@ requirements: [
 ]
 
 heatOutput: 4
-
 itemCapacity: 10
-
-consumes: {
-  items: [
-    coal/1
-  ]
-}
-
-drawer: DrawMulti [
-  DrawDefault
-  DrawFlame
+consumeItems: [
+  coal/1
 ]
