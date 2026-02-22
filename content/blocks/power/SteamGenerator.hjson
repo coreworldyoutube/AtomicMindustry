@@ -9,6 +9,6 @@ requirements: [
 ]
 consumes: {
   items: []
-  liquid: Steam/120
+  liquid: steam/120
 }
 powerProduction: 0.5
