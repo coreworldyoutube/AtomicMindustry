@@ -1,8 +1,8 @@
 type: HeatProducer
 name: coal-heater
-description: Burns coal to generate 4 heat when fueled.
+description: Consumes 1 coal to generate heat.
 size: 2
-category: crafting
+category: production
 
 requirements: [
   copper/40
@@ -12,9 +12,11 @@ requirements: [
 itemCapacity: 10
 craftTime: 60
 
-consumeItems: [
-  coal/1
-]
+consumes: {
+  items: [
+    { item: coal, amount: 1 }
+  ]
+}
 
 heatOutput: 4
 warmupRate: 0.15
