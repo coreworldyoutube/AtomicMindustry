@@ -20,8 +20,8 @@ liquidCapacity: 20.0
 outputsLiquid: true
 
 
-consume:{ liquid: water, amount: 5 }
+consume:{ liquid: water/5 }
 
 
 
-outputLiquids: { liquid: steam, amount: 5 }
+outputLiquids: { liquid: steam/5 }
