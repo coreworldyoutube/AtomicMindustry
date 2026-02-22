@@ -1,3 +1,5 @@
 name: Steam
 gasColor: f0f8ff
+barColor: f0f8ff
+particleEffect: true
 gas: true
