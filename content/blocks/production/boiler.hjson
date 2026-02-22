@@ -12,9 +12,10 @@ requirements: [
 craftTime: 60
 heatRequirement: 4
 
-consumeLiquids: {
-    { liquid: water, amount: 5 }
-}
+consumeLiquids: [
+  { liquid: water, amount: 5 }
+]
+
 
 
 outputLiquids: [
