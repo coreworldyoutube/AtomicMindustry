@@ -1,0 +1,5 @@
+captureWave: 10        # クリア判定ウェーブ
+planet: higuruma       # 所属惑星
+sector: 0              # セクター番号
+difficulty: 2          # 難易度
+alwaysUnlocked: true   # 最初から選択可能
