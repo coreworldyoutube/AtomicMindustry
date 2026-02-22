@@ -1,6 +1,6 @@
 type: ConsumeGenerator
 name: Steam Generator
-description: Burns flammable materials to create small amounts of power.
+description: power Steam
 size: 3
 category: power
 squareSprite: false
@@ -8,6 +8,7 @@ requirements: [
   copper/30
 ]
 consumes: {
-  itemFlammable: {}
+  items: []
+  liquid: Steam/120
 }
 powerProduction: 0.5
