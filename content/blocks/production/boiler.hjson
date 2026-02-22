@@ -12,16 +12,22 @@ requirements: [
 # クラフト時間と熱
 craftTime: 60
 heatRequirement: 4
-maxEfficiency: 1.0  # 適正値に修正
+maxEfficiency: 1.0
 
 # 液体モジュール有効化
 hasLiquids: true
-liquidCapacity: 20.0  # 受け入れ可能な量
+liquidCapacity: 20.0
 outputsLiquid: true
 
-# 見た目だけの擬似消費（本当に消費はHeatCrafter内部で処理）
+# 液体反応設定
 consumeLiquids: [
   { liquid: water, amount: 5 }
+]
+
+# 水を熱で蒸気に変換する設定
+# ※HeatCrafter内部でこのトリガーを読む
+boilLiquids: [
+  { input: water, output: steam, heatRequired: 4, amount: 5 }
 ]
 
 # 出力
