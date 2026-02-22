@@ -3,5 +3,4 @@ planet: higuruma
 sector: 0
 alwaysUnlocked: true
 captureWave: 10
-autoGenerate: true
 isLastSector: false
