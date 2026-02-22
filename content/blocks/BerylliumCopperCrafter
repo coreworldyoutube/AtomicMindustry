@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: BerylliumCopperCrafter
+description: Fuses copper and beryllium into a strong alloy.
+size: 3
+category: crafting
+
+itemCapacity: 20
+
+requirements: [
+  copper/60
+  beryllium/20
+]
+
+consumes: {
+  items: [
+    copper/33
+    beryllium/1
+  ]
+  power: 1
+}
+
+outputItem: berylliumcopper/33
+craftTime: 60
