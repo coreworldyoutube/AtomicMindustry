@@ -19,18 +19,11 @@ hasLiquids: true
 liquidCapacity: 20.0
 outputsLiquid: true
 
-# 液体反応設定
-consumeLiquids: [
-  { liquid: water, amount: 5 }
-]
 
-# 水を熱で蒸気に変換する設定
-# ※HeatCrafter内部でこのトリガーを読む
-boilLiquids: [
-  { input: water, output: steam, heatRequired: 4, amount: 5 }
-]
+consume:{ liquid: water, amount: 5 }
 
-# 出力
+
+
 outputLiquids: [
   { liquid: steam, amount: 5 }
 ]
