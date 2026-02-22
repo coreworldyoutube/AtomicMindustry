@@ -4,7 +4,7 @@ description: Fuses copper and beryllium into a strong alloy.
 size: 3
 category: crafting
 
-itemCapacity: 20
+itemCapacity: 50
 
 requirements: [
   copper/60
