@@ -24,6 +24,4 @@ consume:{ liquid: water, amount: 5 }
 
 
 
-outputLiquids: [
-  { liquid: steam, amount: 5 }
-]
+outputLiquids: { liquid: steam, amount: 5 }
