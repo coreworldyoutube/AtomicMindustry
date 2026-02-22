@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: BerylliumCopperCrafter
+name: beryllium-copper-crafter
 description: Fuses copper and beryllium into a strong alloy.
 size: 3
 category: crafting
