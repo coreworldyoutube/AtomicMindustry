@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: HeatCrafter
 name: boiler
 description: Converts water into steam using heat.
 size: 2
