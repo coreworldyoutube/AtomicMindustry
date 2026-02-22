@@ -1,8 +1,0 @@
-# sector 1
-difficulty: 2
-captureWave: 12
-planet: higuruma
-sector: 1
-alwaysUnlocked: true
-autoGenerate: true
-isLastSector: false
