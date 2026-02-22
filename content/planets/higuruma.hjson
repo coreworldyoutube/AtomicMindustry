@@ -1,10 +1,32 @@
 localizedName: Higuruma
 description: A balanced world of life and desolation.
 alwaysUnlocked: true
+accessible: true
+visible: true
+drawOrbit: true
+orbitRadius: 30
+sectorSize: 1
+radius: 1.2
+minZoom: 1
+orbitSpacing: 1
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+atmosphereColor: 7fc1b0
+iconColor: 7fc1b0
+hasAtmosphere: true
+bloom: false
+updateLighting: false
+allowWaveSimulation: true
+allowWaves: true
+clearSectorOnLose: true
+prebuildBase: false
+defaultCore: "core-01-basic"
+parent: sun
+solarSystem: sun
+launchCandidates: []
 
 mesh: [
   {
-    // base green land
     type: NoiseMesh
     planet: higuruma
     seed: 12
@@ -16,7 +38,6 @@ mesh: [
     persistence: 0.6
   }
   {
-    // shallow water
     type: NoiseMesh
     planet: higuruma
     seed: 33
@@ -28,7 +49,6 @@ mesh: [
     persistence: 0.7
   }
   {
-    // desert band
     type: NoiseMesh
     planet: higuruma
     seed: 77
@@ -41,16 +61,15 @@ mesh: [
     scale: 0.8
   }
   {
-// polar ice (subtle)
-  type: NoiseMesh
-  planet: higuruma
-  seed: 99
-  divisions: 5
-  radius: 1.245
-  color1: e8f2f6
-  color2: d6e6ed
-  octaves: 2
-  persistence: 0.28
+    type: NoiseMesh
+    planet: higuruma
+    seed: 99
+    divisions: 5
+    radius: 1.245
+    color1: e8f2f6
+    color2: d6e6ed
+    octaves: 2
+    persistence: 0.28
   }
 ]
 
@@ -68,3 +87,22 @@ generator: {
   carbonChance: 0.4
   ferricChance: 0.3
 }
+
+itemWhitelist: [
+  "01a-01-item-ferrinite",
+  "01a-02-item-demetite",
+  "01a-03-item-lignite",
+  "01a-04-item-hardened-sand",
+  "01a-05-item-red-sand",
+  "01a-06-item-lodestone",
+  "01a-07-item-lithium",
+  "01a-08-item-cretite",
+  "01a-08-j-item-crystalline-geode",
+  "01a-09-item-obsidian",
+  "01a-10-item-irradiated-lump",
+  "01a-11-item-barite",
+  "01a-12-item-crosium",
+  "01a-13-item-barite-webbing",
+  "01a-14-item-draysten",
+  "sand"
+]
