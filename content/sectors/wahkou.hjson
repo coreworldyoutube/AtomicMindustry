@@ -1,6 +1,7 @@
-captureWave: 10
+difficulty: 2
 planet: higuruma
 sector: 0
-difficulty: 2
 alwaysUnlocked: true
+captureWave: 10
 autoGenerate: true
+isLastSector: false
