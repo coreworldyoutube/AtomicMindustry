@@ -41,16 +41,16 @@ mesh: [
     scale: 0.8
   }
   {
-    // polar ice
-    type: NoiseMesh
-    planet: higuruma
-    seed: 99
-    divisions: 5
-    radius: 1.25
-    color1: f0f7fa
-    color2: d9e8ee
-    octaves: 2
-    persistence: 0.4
+// polar ice (subtle)
+  type: NoiseMesh
+  planet: higuruma
+  seed: 99
+  divisions: 5
+  radius: 1.245
+  color1: e8f2f6
+  color2: d6e6ed
+  octaves: 2
+  persistence: 0.28
   }
 ]
 
