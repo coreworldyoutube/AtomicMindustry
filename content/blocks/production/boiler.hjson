@@ -1,25 +1,28 @@
-type: HeatCrafter
+type: GenericCrafter
 name: boiler
-description: Uses water and heat to produce steam.
+description: Converts water into steam using heat.
 size: 2
 category: production
 
-# 必要素材
 requirements: [
   { item: copper, amount: 30 }
 ]
 
-# クラフト時間と熱
 craftTime: 60
-heatRequirement: 4
+warmupSpeed: 0.05
 maxEfficiency: 1.0
 
-# 液体モジュール有効化
 hasLiquids: true
 liquidCapacity: 20.0
 outputsLiquid: true
 
+# 消費液体
+consumes: {
+  items: []
+  liquid: water/5
+}
 
-consume:{ liquid: water/5 }
-
-outputLiquids: [ { liquid: steam, amount: 5 } ]
+# 出力液体は配列形式で安全
+outputLiquids: [
+  { liquid: steam, amount: 5 }
+]
