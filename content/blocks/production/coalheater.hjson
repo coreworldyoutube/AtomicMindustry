@@ -1,19 +1,20 @@
-type: GenericCrafter
+type: HeatProducer
 name: coal-heater
-description: Burns coal to generate heat.
+description: Burns coal to generate 4 heat when fueled.
 size: 2
 category: crafting
-
-itemCapacity: 10
 
 requirements: [
   copper/40
   graphite/20
 ]
 
+itemCapacity: 10
+craftTime: 60
+
 consumeItems: [
   coal/1
 ]
 
-outputItem: heat-unit/4
-craftTime: 1
+heatOutput: 4
+warmupRate: 0.15
