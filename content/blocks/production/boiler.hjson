@@ -22,6 +22,4 @@ outputsLiquid: true
 
 consume:{ liquid: water/5 }
 
-outputLiquids: [
-  { liquid: steam, amount: 5 }
-]
+outputLiquids: [ { liquid: steam, amount: 5 } ]
