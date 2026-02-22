@@ -1,6 +1,6 @@
 type: HeatProducer
 name: coal-heater
-description: Burns coal to generate heat only when fueled.
+description: Burns 1 coal to generate 4 heat. No fuel, no heat.
 size: 2
 category: crafting
 
