@@ -13,9 +13,7 @@ craftTime: 60
 heatRequirement: 4
 
 consumeLiquids: {
-  items: [
     { liquid: water, amount: 5 }
-  ]
 }
 
 
