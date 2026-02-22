@@ -1,25 +1,21 @@
-type: GenericCrafter
+
+type: HeatCrafter
 name: boiler
-description: Consumes water and heat to produce steam.
+description: Uses water and heat to produce steam.
 size: 2
 category: production
 
 requirements: [
-  copper/30
+  { item: copper, amount: 30 }
 ]
 
-itemCapacity: 0
 craftTime: 60
+heatRequirement: 4
 
-# 水を消費
 consumeLiquids: [
-  water/5
+  { liquid: water, amount: 5 }
 ]
 
-# Steamを出力
 outputLiquids: [
-  steam/5
+  { liquid: steam, amount: 5 }
 ]
-
-# Warmupを使ってHeat依存っぽく演出
-warmupSpeed: 0.05
