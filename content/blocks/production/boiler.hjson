@@ -1,4 +1,3 @@
-
 type: HeatCrafter
 name: boiler
 description: Uses water and heat to produce steam.
@@ -11,12 +10,12 @@ requirements: [
 
 craftTime: 60
 heatRequirement: 4
+maxEfficiency: 4.0
 
+# 擬似水消費（見た目上だけ）
 consumeLiquids: [
   { liquid: water, amount: 5 }
 ]
-
-
 
 outputLiquids: [
   { liquid: steam, amount: 5 }
