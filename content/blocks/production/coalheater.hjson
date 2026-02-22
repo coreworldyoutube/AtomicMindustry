@@ -1,7 +1,7 @@
 type: HeatProducer
 name: coal-heater
 description: Consumes 1 coal to generate heat.
-size: 2
+size: 1
 category: production
 
 requirements: [
