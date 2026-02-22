@@ -6,4 +6,3 @@ sector: 1
 alwaysUnlocked: true
 autoGenerate: true
 isLastSector: false
-defaultCore: "core-01-basic"
