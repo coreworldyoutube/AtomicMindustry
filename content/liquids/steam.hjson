@@ -2,3 +2,4 @@ name: Steam
 gasColor: f0f8ff
 barColor: f0f8ff
 gas: true
+vaporEffect: vapor
