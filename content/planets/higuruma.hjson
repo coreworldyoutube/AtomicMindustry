@@ -24,7 +24,7 @@ parent: sun
 solarSystem: sun
 launchCandidates: []
 hiddenItems: []
-type: any
+type: terrestrial
 
 mesh: [
   {
