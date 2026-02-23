@@ -1,2 +1,4 @@
 name: Tin
 color: f8f8ff
+oreDefault: true
+supportsOverlay: true
