@@ -24,6 +24,15 @@ parent: sun
 solarSystem: sun
 launchCandidates: []
 type: terrestrial
+itemWhitelist: [
+  "copper"
+  "tin"
+  "lead"
+  "beryllium"
+  "coal"
+  "clay"
+  "sand"
+]
 
 mesh: [
   {
@@ -49,6 +58,20 @@ mesh: [
     octaves: 2
     persistence: 0.4
     scale: 0.6
+  }
+]
+cloudMesh: [
+ {
+   type: HexSkyMesh
+   planet: higuruma
+   speed: 1.21
+   radius: 0.1
+   divisions: 6
+   color: eafffd7e
+   octaves: 3
+   persistence: 0.3
+   scl: 1
+   thresh: 0.6
   }
 ]
 
