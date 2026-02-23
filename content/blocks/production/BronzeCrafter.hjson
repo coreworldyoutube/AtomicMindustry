@@ -20,3 +20,6 @@ consumes: {
 
 outputItem: bronze/19
 craftTime: 120
+shownPlanets: [
+    "higuruma"
+]
