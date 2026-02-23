@@ -1,0 +1,6 @@
+type: Floor
+name: tin
+oreDefault: true
+dragMultiplier: 1.5
+speedMultiplier: 0.6
+itemDrop: tin
