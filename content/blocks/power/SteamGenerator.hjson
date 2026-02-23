@@ -12,3 +12,6 @@ consumes: {
   liquid: steam/120
 }
 powerProduction: 0.5
+shownPlanets: [
+    "higuruma"
+]
