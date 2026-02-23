@@ -20,3 +20,6 @@ consumes: {
 
 heatOutput: 4
 warmupRate: 0.15
+shownPlanets: [
+    "higuruma"
+]
