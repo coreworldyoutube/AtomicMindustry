@@ -5,7 +5,7 @@ accessible: true
 visible: true
 drawOrbit: true
 orbitRadius: 30
-sectorSize: 5
+sectorSize: 3          # 5 → 3 に減らす
 radius: 2.4
 minZoom: 1
 orbitSpacing: 1
@@ -30,33 +30,33 @@ mesh: [
     type: NoiseMesh
     planet: higuruma
     seed: 12
-    divisions: 6
+    divisions: 4      # 6 → 4 に減らす
     radius: 1.21
     color1: 4f7d52
     color2: 2f4f34
-    octaves: 4
+    octaves: 3        # 4 → 3
     persistence: 0.6
   }
   {
     type: NoiseMesh
     planet: higuruma
     seed: 33
-    divisions: 6
+    divisions: 4
     radius: 1.23
     color1: 78c7d1
     color2: 4aa4af
-    octaves: 3
+    octaves: 2
     persistence: 0.7
   }
   {
     type: NoiseMesh
     planet: higuruma
     seed: 77
-    divisions: 6
+    divisions: 4
     radius: 1.24
     color1: e6d3a3
     color2: c2a86f
-    octaves: 5
+    octaves: 3        # 5 → 3
     persistence: 0.8
     scale: 0.8
   }
@@ -64,7 +64,7 @@ mesh: [
     type: NoiseMesh
     planet: higuruma
     seed: 99
-    divisions: 5
+    divisions: 3      # 5 → 3
     radius: 1.245
     color1: e8f2f6
     color2: d6e6ed
@@ -74,17 +74,16 @@ mesh: [
 ]
 
 generator: {
-  octaves: 4
+  octaves: 3          # 4 → 3
   persistence: 0.55
-  scale: 24
+  scale: 20           # 24 → 20
   mag: 0.85
   thresh: 1
   min: 63
   max: 100
-  radMin: 480
-  radMax: 580
+  radMin: 220         # 480 → 220
+  radMax: 300         # 580 → 300
   iceChance: 0.02
   carbonChance: 0.23
   ferricChance: 0.14
 }
-
