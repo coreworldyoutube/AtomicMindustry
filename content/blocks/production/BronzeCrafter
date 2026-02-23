@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: BronzeCrafter
+description: Fuses copper and beryllium into a strong alloy.
+size: 2
+category: crafting
+
+itemCapacity: 50
+
+requirements: [
+  clay/10
+]
+
+consumes: {
+  items: [
+    copper/18
+    tin/1
+  ]
+   liquid: steam/120
+}
+
+outputItem: bronze/19
+craftTime: 120
