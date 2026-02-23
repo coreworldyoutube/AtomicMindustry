@@ -1,2 +1,5 @@
 name: Bronze
 color: ac6b25
+shownPlanets: [
+    "higuruma"
+]
