@@ -16,6 +16,6 @@ researchCostMultiplier: 0.05
 research: {
   planet: higuruma
   root: true
-  name: hiruguma
+  name: higuruma
   requiresUnlock: false
 }
