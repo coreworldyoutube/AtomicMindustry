@@ -23,7 +23,6 @@ prebuildBase: false
 parent: sun
 solarSystem: sun
 launchCandidates: []
-hiddenItems: []
 type: terrestrial
 
 mesh: [
@@ -81,9 +80,9 @@ generator: {
   mag: 0.85
   thresh: 1
   min: 63
-  max: 128
+  max: 100
   radMin: 480
-  radMax: 600
+  radMax: 580
   iceChance: 0.02
   carbonChance: 0.23
   ferricChance: 0.14
