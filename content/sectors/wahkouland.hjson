@@ -2,7 +2,4 @@ difficulty: 1
 captureWave: 14
 planet: higuruma
 sector: 0
-alwaysUnlocked: true
-isLastSector: false
-allowLaunchLoadout: true
-allowLaunchSchematics: true
+
