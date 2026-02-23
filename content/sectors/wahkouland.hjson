@@ -4,7 +4,5 @@ planet: higuruma
 sector: 0
 alwaysUnlocked: true
 isLastSector: false
-rules:
-  winWave: captureWave
 allowLaunchLoadout: true
 allowLaunchSchematics: true
