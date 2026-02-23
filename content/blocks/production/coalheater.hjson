@@ -6,7 +6,7 @@ category: production
 
 requirements: [
   copper/40
-  graphite/20
+  bronze/20
 ]
 
 itemCapacity: 10
