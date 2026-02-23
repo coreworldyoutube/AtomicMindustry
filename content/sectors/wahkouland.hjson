@@ -5,3 +5,4 @@ sector: 0
 isLastSector: false
 allowLaunchLoadout: true
 allowLaunchSchematics: true
+startSector: 0
