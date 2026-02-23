@@ -5,7 +5,7 @@ size: 2
 category: production
 
 requirements: [
-  { item: copper, amount: 30 }
+  { item: bronze, amount: 30 }
 ]
 
 
