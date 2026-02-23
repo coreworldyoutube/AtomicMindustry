@@ -1,0 +1,14 @@
+type: CoreBlock
+name: tiny core
+description: Test core
+requirements: [
+  clay/5
+]
+isFirstTier: true
+size: 1
+squareSprite: false
+alwaysUnlocked: true
+health: 50
+itemCapacity: 25
+unitCapModifier: 12
+researchCostMultiplier: 0.05
