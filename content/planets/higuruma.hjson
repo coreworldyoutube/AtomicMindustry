@@ -26,10 +26,30 @@ launchCandidates: []
 type: terrestrial
 
 mesh: [
-  { type: NoiseMesh, planet: higuruma, seed: 12, divisions: 3, radius: 1.20, color1: 4f7d52, color2: 2f4f34, octaves: 3, persistence: 0.5 },
-  { type: NoiseMesh, planet: higuruma, seed: 33, divisions: 3, radius: 1.22, color1: 78c7d1, color2: 4aa4af, octaves: 2, persistence: 0.6 },
-  { type: NoiseMesh, planet: higuruma, seed: 77, divisions: 3, radius: 1.23, color1: e6d3a3, color2: c2a86f, octaves: 3, persistence: 0.7, scale: 0.7 },
-  { type: NoiseMesh, planet: higuruma, seed: 99, divisions: 2, radius: 1.24, color1: e8f2f6, color2: d6e6ed, octaves: 2, persistence: 0.3 }
+  {
+    type: NoiseMesh
+    planet: higuruma
+    seed: 12
+    divisions: 3
+    radius: 1.22
+    color1: 4f7d52   # 緑
+    color2: f0f2f6   # 白
+    octaves: 2
+    persistence: 0.5
+    scale: 0.7
+  }
+  {
+    type: NoiseMesh
+    planet: higuruma
+    seed: 33
+    divisions: 2
+    radius: 1.23
+    color1: 3e6b3a   # 少し濃い緑
+    color2: f5f5f5   # ほんのり白
+    octaves: 2
+    persistence: 0.4
+    scale: 0.6
+  }
 ]
 
 generator: {
