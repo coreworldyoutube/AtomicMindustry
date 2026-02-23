@@ -5,8 +5,8 @@ accessible: true
 visible: true
 drawOrbit: true
 orbitRadius: 30
-sectorSize: 3          # 5 → 3 に減らす
-radius: 2.4
+sectorSize: 3
+radius: 2.0             # 少し小さめにして描画負荷減
 minZoom: 1
 orbitSpacing: 1
 atmosphereRadIn: 0
@@ -26,63 +26,22 @@ launchCandidates: []
 type: terrestrial
 
 mesh: [
-  {
-    type: NoiseMesh
-    planet: higuruma
-    seed: 12
-    divisions: 4      # 6 → 4 に減らす
-    radius: 1.21
-    color1: 4f7d52
-    color2: 2f4f34
-    octaves: 3        # 4 → 3
-    persistence: 0.6
-  }
-  {
-    type: NoiseMesh
-    planet: higuruma
-    seed: 33
-    divisions: 4
-    radius: 1.23
-    color1: 78c7d1
-    color2: 4aa4af
-    octaves: 2
-    persistence: 0.7
-  }
-  {
-    type: NoiseMesh
-    planet: higuruma
-    seed: 77
-    divisions: 4
-    radius: 1.24
-    color1: e6d3a3
-    color2: c2a86f
-    octaves: 3        # 5 → 3
-    persistence: 0.8
-    scale: 0.8
-  }
-  {
-    type: NoiseMesh
-    planet: higuruma
-    seed: 99
-    divisions: 3      # 5 → 3
-    radius: 1.245
-    color1: e8f2f6
-    color2: d6e6ed
-    octaves: 2
-    persistence: 0.28
-  }
+  { type: NoiseMesh, planet: higuruma, seed: 12, divisions: 3, radius: 1.20, color1: 4f7d52, color2: 2f4f34, octaves: 3, persistence: 0.5 },
+  { type: NoiseMesh, planet: higuruma, seed: 33, divisions: 3, radius: 1.22, color1: 78c7d1, color2: 4aa4af, octaves: 2, persistence: 0.6 },
+  { type: NoiseMesh, planet: higuruma, seed: 77, divisions: 3, radius: 1.23, color1: e6d3a3, color2: c2a86f, octaves: 3, persistence: 0.7, scale: 0.7 },
+  { type: NoiseMesh, planet: higuruma, seed: 99, divisions: 2, radius: 1.24, color1: e8f2f6, color2: d6e6ed, octaves: 2, persistence: 0.3 }
 ]
 
 generator: {
-  octaves: 3          # 4 → 3
+  octaves: 3
   persistence: 0.55
-  scale: 20           # 24 → 20
-  mag: 0.85
+  scale: 16           # さらに少し下げて負荷軽減
+  mag: 0.6            # 高さを控えめに
   thresh: 1
   min: 63
   max: 100
-  radMin: 220         # 480 → 220
-  radMax: 300         # 580 → 300
+  radMin: 100         # 小さめにして負荷低減
+  radMax: 200
   iceChance: 0.02
   carbonChance: 0.23
   ferricChance: 0.14
