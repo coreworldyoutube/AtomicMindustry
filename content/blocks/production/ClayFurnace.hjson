@@ -15,6 +15,7 @@ consumes: {
     copper/33
     beryllium/1
   ]
+   liquid: steam/120
 }
 
 outputItem: berylliumcopper/33
