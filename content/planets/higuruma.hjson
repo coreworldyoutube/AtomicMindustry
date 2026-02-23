@@ -24,6 +24,7 @@ parent: sun
 solarSystem: sun
 launchCandidates: []
 type: terrestrial
+
 itemWhitelist: [
   "copper"
   "tin"
