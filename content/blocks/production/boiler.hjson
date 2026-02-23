@@ -28,3 +28,6 @@ consumes: {
 outputLiquids: [
   { liquid: steam, amount: 5 }
 ]
+shownPlanets: [
+    "higuruma"
+]
