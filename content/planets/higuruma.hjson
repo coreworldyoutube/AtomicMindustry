@@ -33,6 +33,14 @@ itemWhitelist: [
   "coal"
   "clay"
   "sand"
+  "metaglass"
+  "graphite"
+  "scrap"
+  "spore-pod"
+  "phase-fabric"
+  "silicon"
+  "plastanium"
+  "thorium"
 ]
 
 mesh: [
