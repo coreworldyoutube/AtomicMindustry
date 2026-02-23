@@ -5,8 +5,8 @@ accessible: true
 visible: true
 drawOrbit: true
 orbitRadius: 30
-sectorSize: 1
-radius: 1.2
+sectorSize: 5
+radius: 2.4
 minZoom: 1
 orbitSpacing: 1
 atmosphereRadIn: 0
@@ -14,15 +14,16 @@ atmosphereRadOut: 0.3
 atmosphereColor: 7fc1b0
 iconColor: 7fc1b0
 hasAtmosphere: true
-bloom: false
+bloom: true
 updateLighting: false
 allowWaveSimulation: true
 allowWaves: true
-clearSectorOnLose: true
+clearSectorOnLose: false
 prebuildBase: false
 parent: sun
 solarSystem: sun
 launchCandidates: []
+type: any
 
 mesh: [
   {
@@ -78,12 +79,12 @@ generator: {
   scale: 24
   mag: 0.85
   thresh: 1
-  min: 90
-  max: 120
-  radMin: 220
-  radMax: 580
-  iceChance: 0.35
-  carbonChance: 0.4
-  ferricChance: 0.3
+  min: 63
+  max: 128
+  radMin: 480
+  radMax: 600
+  iceChance: 0.02
+  carbonChance: 0.23
+  ferricChance: 0.14
 }
 
