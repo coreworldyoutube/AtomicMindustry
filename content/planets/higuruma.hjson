@@ -32,8 +32,8 @@ mesh: [
     seed: 12
     divisions: 3
     radius: 1.22
-    color1: 4f7d52   # 緑
-    color2: f0f2f6   # 白
+    color1: 6FCF4B   # 明るい緑
+    color2: 4AA4D1   # 水色（海）
     octaves: 2
     persistence: 0.5
     scale: 0.7
@@ -44,13 +44,14 @@ mesh: [
     seed: 33
     divisions: 2
     radius: 1.23
-    color1: 3e6b3a   # 少し濃い緑
-    color2: f5f5f5   # ほんのり白
+    color1: 3EE67C   # 少し明るめ緑
+    color2: F0F8FF   # 白（雲や雪）
     octaves: 2
     persistence: 0.4
     scale: 0.6
   }
 ]
+
 
 generator: {
   octaves: 3
