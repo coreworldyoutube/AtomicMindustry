@@ -4,3 +4,4 @@ planet: higuruma
 sector: 0
 alwaysUnlocked: true
 isLastSector: false
+winWave = captureWave
