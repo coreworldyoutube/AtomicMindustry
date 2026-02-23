@@ -23,6 +23,7 @@ prebuildBase: false
 parent: sun
 solarSystem: sun
 launchCandidates: []
+hiddenItems: []
 type: any
 
 mesh: [
