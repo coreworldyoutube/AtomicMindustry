@@ -11,4 +11,11 @@ alwaysUnlocked: true
 health: 50
 itemCapacity: 25
 unitCapModifier: 12
+category: effect
 researchCostMultiplier: 0.05
+research: {
+  planet: higuruma
+  root: true
+  name: hiruguma
+  requiresUnlock: false
+}
