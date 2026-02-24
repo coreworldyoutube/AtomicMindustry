@@ -23,3 +23,8 @@ craftTime: 120
 shownPlanets: [
   higuruma
 ]
+research: {
+  planet: higuruma
+  parent: clay
+
+}
