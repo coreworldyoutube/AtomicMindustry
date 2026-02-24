@@ -22,5 +22,5 @@ consumes: {
 outputItem: berylliumcopper/33
 craftTime: 60
 shownPlanets: [
-    "higuruma"
+  higuruma
 ]
