@@ -26,5 +26,5 @@ shownPlanets: [
 research: {
   planet: higuruma
   parent: clay
-
+　root: true
 }
