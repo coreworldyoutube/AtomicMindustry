@@ -1,4 +1,4 @@
-type: Floor
+type: OreBlock
 name: tin
 oreDefault: true
 dragMultiplier: 1.5
@@ -7,3 +7,6 @@ itemDrop: tin
 shownPlanets: [
   higuruma
 ]
+playerUnmineable: true
+oreScale: 19.7
+oreThreshold: 0.917
