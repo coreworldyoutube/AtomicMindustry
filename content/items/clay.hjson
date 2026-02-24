@@ -3,3 +3,8 @@ color: b87333
 shownPlanets: [
     "higuruma"
 ]
+research: {
+  planet: higuruma
+  name: clay-mine
+  root: true
+}
