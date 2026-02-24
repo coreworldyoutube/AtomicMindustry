@@ -25,6 +25,6 @@ shownPlanets: [
 ]
 research: {
   planet: higuruma
-  parent: clay
-　root: true
+  parent: clay-mine
+  name: clay-furnace
 }
