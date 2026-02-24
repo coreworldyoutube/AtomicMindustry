@@ -25,23 +25,7 @@ solarSystem: sun
 launchCandidates: []
 type: terrestrial
 
-itemWhitelist: [
-  "copper"
-  "tin"
-  "lead"
-  "beryllium"
-  "coal"
-  "clay"
-  "sand"
-  "metaglass"
-  "graphite"
-  "scrap"
-  "spore-pod"
-  "phase-fabric"
-  "silicon"
-  "plastanium"
-  "thorium"
-]
+
 
 mesh: [
   {
