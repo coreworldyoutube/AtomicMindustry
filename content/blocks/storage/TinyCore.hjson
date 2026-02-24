@@ -19,3 +19,6 @@ research: {
   name: higuruma
   requiresUnlock: false
 }
+shownPlanets: [
+  higuruma
+]
