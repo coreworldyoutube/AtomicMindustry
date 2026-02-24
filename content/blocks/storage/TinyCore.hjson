@@ -5,7 +5,7 @@ requirements: [
   clay/5
 ]
 isFirstTier: true
-size: 3
+size: 1
 squareSprite: false
 alwaysUnlocked: true
 health: 50
