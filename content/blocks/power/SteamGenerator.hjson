@@ -13,5 +13,5 @@ consumes: {
 }
 powerProduction: 0.5
 shownPlanets: [
-    "higuruma"
+  higuruma
 ]
