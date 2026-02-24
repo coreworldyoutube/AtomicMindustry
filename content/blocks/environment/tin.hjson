@@ -5,5 +5,5 @@ dragMultiplier: 1.5
 speedMultiplier: 0.6
 itemDrop: tin
 shownPlanets: [
-    "higuruma"
+  higuruma
 ]
