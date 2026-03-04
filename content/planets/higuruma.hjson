@@ -6,7 +6,7 @@ visible: true
 drawOrbit: true
 orbitRadius: 30
 sectorSize: 3
-radius: 2.0             # 少し小さめにして描画負荷減
+radius: 2.0
 minZoom: 1
 orbitSpacing: 1
 atmosphereRadIn: 0
@@ -25,7 +25,7 @@ solarSystem: sun
 launchCandidates: []
 type: terrestrial
 
-
+defaultCore: higuruma
 
 mesh: [
   {
