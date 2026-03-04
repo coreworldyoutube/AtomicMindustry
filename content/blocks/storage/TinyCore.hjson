@@ -15,6 +15,7 @@ category: effect
 researchCostMultiplier: 0.05
 research: {
   planet: higuruma
+  root: true
   name: higuruma
   requiresUnlock: false
 }
