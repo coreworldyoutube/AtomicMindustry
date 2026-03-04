@@ -25,7 +25,7 @@ solarSystem: sun
 launchCandidates: []
 type: terrestrial
 
-defaultCore: higuruma
+defaultCore: tiny-core
 
 mesh: [
   {
