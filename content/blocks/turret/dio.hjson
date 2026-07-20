@@ -21,25 +21,30 @@ ammoTypes: {
     type: BasicBulletType
     damage: 10
     speed: 25
+　　lifetime: 40
   }
  bronze: {
     type: BasicBulletType
     damage: 20
     speed: 28
+　　lifetime: 40
   }
  iron: {
     type: BasicBulletType
     damage: 8
     speed: 19
+　　lifetime: 40
   }
  beryllium: {
     type: BasicBulletType
     damage: 25
     speed: 26
+　  lifetime: 40
   }
  stone: {
     type: BasicBulletType
     damage: 2
     speed: 40
+　  lifetime: 40
   }
 }
