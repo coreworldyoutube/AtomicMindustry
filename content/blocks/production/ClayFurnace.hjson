@@ -1,4 +1,4 @@
-type: HeatProducer
+type: GenericCrafter
 name: ClayFurnace
 description: Fuses copper and beryllium into a strong alloy.
 size: 2
