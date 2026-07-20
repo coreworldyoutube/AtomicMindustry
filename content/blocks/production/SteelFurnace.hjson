@@ -17,6 +17,7 @@ consumes: {
   ]
    liquid: steam/120
 }
+heatOutput: 20
 
 outputItem: steel/100
 craftTime: 120
