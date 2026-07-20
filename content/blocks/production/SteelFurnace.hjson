@@ -1,1 +1,26 @@
-a
+type: GenericCrafter
+name: SteelFurnace
+description: Fuses copper and beryllium into a strong alloy.
+size: 2
+category: crafting
+
+itemCapacity: 75
+
+requirements: [
+  clay/10
+]
+
+consumes: {
+  items: [
+    iron/33
+    coal/1
+  ]
+   liquid: steam/120
+}
+
+outputItem: berylliumcopper/33
+craftTime: 120
+shownPlanets: [
+  higuruma
+]
+research: tiny-core
