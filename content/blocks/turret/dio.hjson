@@ -42,5 +42,5 @@ ammoTypes: {
     speed: 25
     lifetime: 40
   }
-}
+
 }
