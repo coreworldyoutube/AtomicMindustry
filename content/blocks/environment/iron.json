@@ -1,1 +1,12 @@
-a
+type: OreBlock
+name: iron
+oreDefault: true
+dragMultiplier: 1.5
+speedMultiplier: 0.6
+itemDrop: tin
+shownPlanets: [
+  higuruma
+]
+playerUnmineable: true
+oreScale: 19.7
+oreThreshold: 0.917
