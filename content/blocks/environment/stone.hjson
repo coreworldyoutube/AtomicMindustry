@@ -1,4 +1,4 @@
-type: OreBlock
+type: Floor
 name: stone
 oreDefault: true
 dragMultiplier: 1.5
@@ -7,6 +7,3 @@ itemDrop: stone
 shownPlanets: [
   higuruma
 ]
-playerUnmineable: true
-oreScale: 19.7
-oreThreshold: 0.917
