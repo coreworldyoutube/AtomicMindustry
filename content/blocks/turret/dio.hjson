@@ -3,19 +3,35 @@ name: dio
 
 health: 120
 size: 4
-
+targetAir: true
+targetGround: true
+unitSort: closest
 range: 264
 
+
 requirements: [
-  copper/35
-  lead/50
+copper/35
+iron/225
+tin/60
+clay/25
 ]
 
 ammoTypes: {
-  copper: {
-    type: BasicBulletType
-    damage: 10
-    speed: 25
-    lifetime: 40
-  }
+tin: {
+type: BasicBulletType
+damage: 10
+speed: 25
+　　lifetime: 40
+}
+bronze: {
+type: BasicBulletType
+damage: 20
+speed: 28
+　　lifetime: 40
+}
+iron: {
+type: BasicBulletType
+damage: 8
+speed: 19
+　　lifetime: 40
 }
