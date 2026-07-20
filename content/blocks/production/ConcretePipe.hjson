@@ -1,5 +1,5 @@
 type: conduit
-name: my-conduit
+name: ConcretePipe
 
 size: 1
 health: 60
