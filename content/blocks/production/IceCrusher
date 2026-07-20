@@ -1,5 +1,5 @@
 type: HeatCrafter
-name: ice-melter
+name: IceCrusher
 
 description: Melts ice into water using heat.
 
