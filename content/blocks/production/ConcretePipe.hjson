@@ -8,8 +8,7 @@ outputsLiquid: true
 liquidCapacity: 10
 
 requirements: [
-    copper/2
-    lead/1
+    clay/2
 ]
 
 category: distribution
