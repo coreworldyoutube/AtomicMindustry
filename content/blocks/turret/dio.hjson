@@ -1,0 +1,41 @@
+type: ItemTurret
+name: dio
+
+health: 120
+size: 4
+range: 33
+
+requirements: [
+  copper/35
+  iron/225
+  tin/60
+  clay/25
+]
+
+ammoTypes: {
+  tin: {
+    type: BasicBulletType
+    damage: 10
+    speed: 100
+  }
+ bronze: {
+    type: BasicBulletType
+    damage: 20
+    speed: 100
+  }
+ iron: {
+    type: BasicBulletType
+    damage: 8
+    speed: 75
+  }
+ beryllium: {
+    type: BasicBulletType
+    damage: 25
+    speed: 100
+  }
+ stone: {
+    type: BasicBulletType
+    damage: 2
+    speed: 240
+  }
+}
