@@ -3,7 +3,7 @@ name: IceCrusher
 
 description: Melts ice into water using heat.
 
-size: 2
+size: 1
 category: crafting
 
 requirements: [
