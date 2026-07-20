@@ -1,31 +1,24 @@
-type: HeatCrafter
-name: IceCrusher
+type: GenericCrafter
+name: ice-freezer
 
-description: Melts ice into water using heat.
+description: Freezes water into ice.
 
-size: 1
+size: 2
 category: crafting
 
 requirements: [
   {item: copper, amount: 40}
 ]
 
-itemCapacity: 50
-liquidCapacity: 20
 hasLiquids: true
-outputsLiquid: true
-
-heatRequirement: 10
-overheatScale: 1
-maxEfficiency: 4
+liquidCapacity: 20
+outputsLiquid: false
 
 consumes: {
-  items: [
-    ice/10
-  ]
+  liquid: water/10
 }
 
-outputLiquid: water/10
+outputItem: ice/10
 
 craftTime: 60
 
