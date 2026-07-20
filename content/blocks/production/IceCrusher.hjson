@@ -7,7 +7,7 @@ size: 1
 category: crafting
 
 requirements: [
-  {item: copper, amount: 40}
+  {item: steel, amount: 40}
 ]
 
 itemCapacity: 50
