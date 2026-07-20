@@ -1,0 +1,18 @@
+type: ItemTurret
+name: duo
+
+health: 250
+size: 1
+range: 20
+
+requirements: [
+  tin/35
+]
+
+ammoTypes: {
+  copper: {
+    type: BasicBulletType
+    damage: 9
+    speed: 3
+  }
+}
