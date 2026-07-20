@@ -3,10 +3,10 @@ name: dio
 
 health: 120
 size: 4
-range: 33
 targetAir: true
 targetGround: true
-targetSort: distance
+unitSort: closest
+range: 33
 trackingRange: 45
 
 requirements: [
