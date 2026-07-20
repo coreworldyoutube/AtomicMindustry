@@ -1,0 +1,21 @@
+type: Pump
+name: BasicPump
+description: Pumps water.
+size: 3
+category: liquid
+
+requirements: [
+  tin/50
+  clay/25
+]
+
+hasLiquids: true
+liquidCapacity: 300
+
+liquid: water
+
+pumpAmount: 0.2
+
+shownPlanets: [
+  higuruma
+]
