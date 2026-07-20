@@ -12,14 +12,13 @@ requirements: [
 
 consumes: {
   items: [
-    iron/95
-    coal/5
+    iron/50
+    coal/2
   ]
-   liquid: steam/120
 }
 heatOutput: 20
 
-outputItem: steel/100
+outputItem: steel/50
 craftTime: 120
 shownPlanets: [
   higuruma
