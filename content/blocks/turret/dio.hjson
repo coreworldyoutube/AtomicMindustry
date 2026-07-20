@@ -4,7 +4,7 @@ name: dio
 health: 120
 size: 4
 
-range: 33
+range: 9999999
 
 requirements: [
   copper/35
