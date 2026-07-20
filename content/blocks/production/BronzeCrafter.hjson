@@ -7,7 +7,9 @@ category: crafting
 itemCapacity: 50
 
 requirements: [
-  clay/10
+  tin/50
+  copper/50
+  clay/25
 ]
 
 consumes: {
