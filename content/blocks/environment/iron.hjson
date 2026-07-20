@@ -3,7 +3,7 @@ name: iron
 oreDefault: true
 dragMultiplier: 1.5
 speedMultiplier: 0.6
-itemDrop: tin
+itemDrop: iron
 shownPlanets: [
   higuruma
 ]
