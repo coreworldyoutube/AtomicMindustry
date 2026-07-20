@@ -35,3 +35,10 @@ damage: 8
 speed: 19
 　　lifetime: 40
 }
+beryllium: {
+type: BasicBulletType
+damage: 12
+speed: 23
+　　lifetime: 40
+}
+}
