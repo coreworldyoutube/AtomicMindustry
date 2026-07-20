@@ -12,13 +12,13 @@ requirements: [
 
 consumes: {
   items: [
-    iron/33
-    coal/1
+    iron/95
+    coal/5
   ]
    liquid: steam/120
 }
 
-outputItem: berylliumcopper/33
+outputItem: steel/100
 craftTime: 120
 shownPlanets: [
   higuruma
