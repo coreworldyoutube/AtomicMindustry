@@ -1,0 +1,18 @@
+type: conduit
+name: my-conduit
+
+size: 1
+health: 60
+hasLiquids: true
+outputsLiquid: true
+liquidCapacity: 10
+
+requirements: [
+    copper/2
+    lead/1
+]
+
+category: distribution
+research: {
+    parent: conduit
+ }
