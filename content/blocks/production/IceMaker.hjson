@@ -1,0 +1,34 @@
+type: HeatCrafter
+name: IceCrusher
+
+description: Melts ice into water using heat.
+
+size: 1
+category: crafting
+
+requirements: [
+  {item: copper, amount: 40}
+]
+
+itemCapacity: 50
+liquidCapacity: 20
+hasLiquids: true
+outputsLiquid: true
+
+heatRequirement: 10
+overheatScale: 1
+maxEfficiency: 4
+
+consumes: {
+  items: [
+    ice/10
+  ]
+}
+
+outputLiquid: water/10
+
+craftTime: 60
+
+shownPlanets: [
+  higuruma
+]
