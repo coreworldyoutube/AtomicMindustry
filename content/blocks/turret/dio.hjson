@@ -4,6 +4,10 @@ name: dio
 health: 120
 size: 4
 range: 33
+targetAir: true
+targetGround: true
+targetSort: distance
+trackingRange: 45
 
 requirements: [
   copper/35
@@ -16,26 +20,26 @@ ammoTypes: {
   tin: {
     type: BasicBulletType
     damage: 10
-    speed: 100
+    speed: 25
   }
  bronze: {
     type: BasicBulletType
     damage: 20
-    speed: 100
+    speed: 28
   }
  iron: {
     type: BasicBulletType
     damage: 8
-    speed: 75
+    speed: 19
   }
  beryllium: {
     type: BasicBulletType
     damage: 25
-    speed: 100
+    speed: 26
   }
  stone: {
     type: BasicBulletType
     damage: 2
-    speed: 240
+    speed: 40
   }
 }
