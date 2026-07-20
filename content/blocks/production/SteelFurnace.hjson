@@ -7,7 +7,7 @@ category: crafting
 itemCapacity: 75
 
 requirements: [
-  clay/10
+  bronze/10
 ]
 # HeatCrafter 風パラメータ
 heatRequirement: 10.0      # この熱があれば効率100%
