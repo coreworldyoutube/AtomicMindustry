@@ -1,0 +1,34 @@
+type: HeatCrafter
+name: pot
+description: Converts water into steam using heat.
+size: 1
+category: production
+
+requirements: [
+  clay/10
+  iron/15
+]
+
+
+hasLiquids: true
+liquidCapacity: 20.0
+outputsLiquid: true
+
+# HeatCrafter 風パラメータ
+heatRequirement: 10.0      # この熱があれば効率100%
+overheatScale: 1.0         # 余剰熱の効率倍率
+maxEfficiency: 4.0         # 最大効率
+
+# 消費液体
+consumes: {
+  items: []
+  liquid: water/1
+}
+
+# 出力液体は配列形式で安全
+outputLiquids: [
+  { liquid: steam, amount: 1 }
+]
+shownPlanets: [
+  higuruma
+]
