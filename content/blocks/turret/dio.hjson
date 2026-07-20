@@ -35,4 +35,12 @@ ammoTypes: {
     speed: 19
 　　lifetime: 40
   }
+　ammoTypes: {
+  copper: {
+    type: BasicBulletType
+    damage: 10
+    speed: 25
+    lifetime: 40
+  }
+}
 }
