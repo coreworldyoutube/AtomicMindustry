@@ -5,8 +5,7 @@ size: 1
 category: production
 
 requirements: [
-  copper/40
-  bronze/20
+  clay/10
 ]
 
 itemCapacity: 10
