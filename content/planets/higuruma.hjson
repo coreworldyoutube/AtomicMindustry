@@ -1,29 +1,39 @@
 localizedName: higuruma
 description: test
+
 alwaysUnlocked: true
 accessible: true
 visible: true
+
+type: terrestrial
+
+parent: sun
+solarSystem: sun
+
 drawOrbit: true
 orbitRadius: 30
-sectorSize: 3
-radius: 2.0
-minZoom: 1
 orbitSpacing: 1
+
+radius: 2
+sectorSize: 3
+minZoom: 1
+
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 atmosphereColor: 7fc1b0
 iconColor: 7fc1b0
 hasAtmosphere: true
+
 bloom: true
 updateLighting: false
+
 allowWaveSimulation: true
 allowWaves: true
+
 clearSectorOnLose: false
 prebuildBase: false
-parent: sun
-solarSystem: sun
+
 launchCandidates: []
-type: terrestrial
 
 defaultCore: tiny-core
 
@@ -34,8 +44,8 @@ mesh: [
     seed: 12
     divisions: 3
     radius: 1.22
-    color1: 6FCF4B   # 明るい緑
-    color2: 4AA4D1   # 水色（海）
+    color1: 6FCF4B
+    color2: 4AA4D1
     octaves: 2
     persistence: 0.5
     scale: 0.7
@@ -46,39 +56,44 @@ mesh: [
     seed: 33
     divisions: 2
     radius: 1.23
-    color1: 3EE67C   # 少し明るめ緑
-    color2: F0F8FF   # 白（雲や雪）
+    color1: 3EE67C
+    color2: F0F8FF
     octaves: 2
     persistence: 0.4
     scale: 0.6
   }
 ]
+
 cloudMesh: [
- {
-   type: HexSkyMesh
-   planet: higuruma
-   speed: 1.21
-   radius: 0.1
-   divisions: 6
-   color: eafffd7e
-   octaves: 3
-   persistence: 0.3
-   scl: 1
-   thresh: 0.6
+  {
+    type: HexSkyMesh
+    planet: higuruma
+    speed: 1.2
+    radius: 1.24
+    divisions: 6
+    color: eafffd7e
+    octaves: 3
+    persistence: 0.3
+    scl: 1
+    thresh: 0.6
   }
 ]
 
-
 generator: {
+  type: SerpuloPlanetGenerator
+
   octaves: 3
   persistence: 0.55
-  scale: 16           # さらに少し下げて負荷軽減
-  mag: 0.6            # 高さを控えめに
+  scale: 16
+  mag: 0.6
   thresh: 1
+
   min: 63
   max: 100
-  radMin: 100         # 小さめにして負荷低減
+
+  radMin: 100
   radMax: 200
+
   iceChance: 0.02
   carbonChance: 0.23
   ferricChance: 0.14
