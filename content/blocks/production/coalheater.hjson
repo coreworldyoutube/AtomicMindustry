@@ -22,3 +22,5 @@ warmupRate: 0.15
 shownPlanets: [
   higuruma
 ]
+research: clay
+
